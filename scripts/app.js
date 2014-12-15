@@ -1,0 +1,1 @@
+﻿var feedApp = angular.module('feedApp', []);
